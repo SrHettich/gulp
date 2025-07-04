@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","C:/Users/jeanh/OneDrive/Documentos/EBAC%20ESTUDOS/gulp/source/styles/variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCHS","file":"main.css","sourcesContent":["@use 'variaveis';\r\n\r\nbody{\r\n    background-color: variaveis.$corDeFundo;\r\n}","$corDeFundo: #4783c7;"]}
